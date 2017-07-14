@@ -1,0 +1,13 @@
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\bin\Debug\StuManSys.exe
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\bin\Debug\StuManSys.pdb
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.InfoSys.resources
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.Properties.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.exe
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.pdb
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.Adding.resources
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.Update.resources
+D:\My Documents\Visual Studio 2008\Projects\StuManSys\StuManSys\obj\Debug\StuManSys.Query.resources
+D:\WORKSPACE\C#\StuManSys\StuManSys\obj\Debug\StuManSys.exe
+D:\WORKSPACE\C#\StuManSys\StuManSys\obj\Debug\StuManSys.pdb
